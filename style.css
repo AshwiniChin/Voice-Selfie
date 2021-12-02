@@ -1,0 +1,20 @@
+body{
+    background-color: pink;
+}
+button
+{
+    width: 100px;
+    padding: 5px;
+    margin: 10px;
+    background-color: rgb(92, 241, 92);
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#textbox
+{
+    width: 300px;
+}
